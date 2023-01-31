@@ -3,7 +3,7 @@
 ## For Traditional Motor Setup
 Follow guide for circuitry and code for code
 
-## For Arduinp Stepper Motor Setup
+## For Arduino Stepper Motor Setup
 Follow 2nd part of guide for circuitry and links for code and measurements
 
 https://www.instructables.com/BYJ48-Stepper-Motor/
